@@ -139,7 +139,7 @@ footer {
     position: relative;
     bottom: 90px;
 }
-#pf1, #pf2, #pf3, #pf4, #pf5, #pf6 {
+.pflink.pflink.pflink {
     color: #ffffff;
     text-decoration: none;
 }
